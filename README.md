@@ -5,7 +5,7 @@ React + Vite page that renders an animated 3D model in the browser using
 
 This project is available on https://3dcat.hadama.com.br/
 <p align="center">
-<img src="public/project-img.png" alt="project-image" width="400" height="400" >
+<img src="public/cat3d.gif" alt="project-image" >
 </p>
 
 ## Scripts
