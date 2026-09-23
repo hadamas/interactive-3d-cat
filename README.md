@@ -3,6 +3,10 @@
 React + Vite page that renders an animated 3D model in the browser using
 [React Three Fiber](https://r3f.docs.pmnd.rs/) and [drei](https://drei.docs.pmnd.rs/).
 
+<p align="center">
+<img src="public/project-img.png" alt="project-image" width="400" height="400" >
+</p>
+
 ## Scripts
 
 ```bash
