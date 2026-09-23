@@ -1,0 +1,18 @@
+.header {
+  position: relative;
+  z-index: 1;
+  padding-top: 3rem;
+  text-align: center;
+  pointer-events: none;
+}
+
+.title {
+  margin: 0;
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
+  font-weight: 900;
+}
+
+.subtitle {
+  margin: 0.5rem 0 0;
+  color: var(--color-text-muted);
+}

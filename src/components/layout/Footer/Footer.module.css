@@ -1,0 +1,17 @@
+.footer {
+  position: relative;
+  z-index: 1;
+  margin-top: auto;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer a {
+  color: inherit;
+}
